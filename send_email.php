@@ -3,7 +3,7 @@
 	$email = $_POST["email"];
 	$message = $_POST["message"];
 	
-	$to = "recipient@example.com";
+	$to = "adhikarisuj1234@gmail.com";
 	$subject = "New message from $name";
 	$body = "From: $name\nEmail: $email\nMessage:\n$message";
 	
