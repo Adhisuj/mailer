@@ -23,7 +23,7 @@
               <label for="name">password</label>
               <input type="password" class="form-control" name="pwd" id="subject" required>
             </div>
-            <div class="text-center"><button type="submit" name="sb">submit</button></div>
+            <div class="text-center"><button type="submit" name="sb">Send Message</button></div>
           </form>
           <?php
           $con=mysqli_connect('localhost','root','','contact');
